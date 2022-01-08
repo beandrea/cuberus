@@ -1,5 +1,3 @@
 ## Automated ELK Stack Deployment
 
-The files in this repository were used to configure the network depicted below.
-
-!(/Images/networkDiagram.png)
+This github repo contains yml files that were used to create an elk stack machine, metricbeat, and filebeat, as well as the resulting images generated when metricbeat and filebeat successfully ran, and finally the network diagram of the elk stack.
